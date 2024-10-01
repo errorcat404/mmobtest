@@ -1,0 +1,224 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1440px;
+    height: 3150px;
+    margin: 0 auto;
+}
+header{
+    width: 1442px;
+    height: 95px;
+    margin-left: auto;
+    padding: 25px 25px 25px 25px;
+
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    height: 44px;
+    align-items: center;
+}
+.mob_nav{
+    display: none;
+}
+.pc{
+    display: flex;
+}
+.image_1{
+    width: 1438px;
+    height: 495px;
+}
+.image_nav{
+    width: 27px;
+    height: 29px;
+}
+.vector_image{
+    width: 10px;
+    height: 6.25px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: #000;
+    font-family: "Istok Web";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.main_image{
+    width: 1440px;
+    height: 408px;
+    display: flex;
+    justify-content: space-around;
+    padding: 25px 25px 25px 25px;
+
+}
+.image_main{
+    width: 326px;
+    height: 326px;
+}
+.main_2_image{
+    display: flex;
+    justify-content: space-around;
+    padding: 25px 25px 25px 25px;
+}
+.nav_2{
+    width: 242px;
+    height: 95px;
+    display: flex;
+    justify-content: space-between;
+}
+.blue_main{
+    width: 1440px;
+    height: 1266px;
+    border: 1px solid #000;
+    background: #BBDEFB;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.main1,.main2{
+    height: 25%;
+    width: 80%;
+    display: flex;
+}
+.main{
+    padding: 5px 25px 25px 25px;
+    margin: 5px 5px 5px 5px;
+}
+.h1_blue_main{
+    color: #000;
+    font-family: "Istok Web";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding: 45px 25px 25px 25px;
+}
+.image_main_blue{
+    width: 488px;
+    height: 424px;
+    display: flex;
+    justify-content: space-around;
+    padding: 25px 25px 25px 25px;
+}
+
+.blue_main_1{
+    width: 1440px;
+    height: 498px;
+    /* justify-content: space-around; */
+    margin: 75px 55px 55px 55px;
+
+}
+.h2_main_blue{
+    width: 536px;
+    height: 318px;
+    margin: 85px 45px;
+    padding: 25px;
+    color: #000;
+    font-family: "K2D", sans-serif;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+
+}
+.p_main_blue{
+    padding: 55px 0px 0px 0px;
+    color: #000;
+    font-family: "K2D", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+.h1_logo{
+    width: 1218px;
+    height: 236px;
+    color: #000;
+    font-family: "K2D", sans-serif;
+    font-size: 65px;
+    font-weight: 400;
+    margin: 30px 0px 0px 0px;
+}
+.logo_image{
+    display: flex;
+    justify-content: space-evenly;
+    width: 70%;
+}
+.image_logo{
+    width: 135px;
+    height: 135px;
+    display: flex;
+    justify-content: space-around;
+}
+.blue_footer{
+    width: 1438px;
+    height: 388px;
+    background: #BBDEFB;
+    margin: 100px 0px 0px 0px ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.line{
+    border: 1px solid black;
+    height: 100%;
+    width: 1px;
+}
+.text_footer{
+    font-family: "K2D", sans-serif;
+    font-size: 25px; 
+    font-weight: 800;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+.image_footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 39%;
+    height: 80%;
+}
+.blue_mainn{
+    display: flex;
+    align-content: space-between;
+}
+.image_cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 33%;
+    width: 100%;
+}
+.im_p{
+    font-size: 25px;
+    font-weight: 800;
+    font-family: "K2D", sans-serif;
+    width: 47%;
+}
+.h1__{
+    width: 1120px;
+    text-align: center;
+    color: #000;
+    font-family: "K2D", sans-serif;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.text_main{
+    font-size: 64px;
+    font-family: "K2D", sans-serif;
+}

@@ -1,0 +1,22 @@
+@media only screen and (max-width: 320px) {
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    .container{
+        width: 100%;
+        height: 3150px;
+        margin: 0 auto;
+    }
+    .mob_nav{
+        display: block;
+    }
+    .pc{
+        display: none;
+    }
+    nav{
+        display: flex;
+        justify-content: end;
+    }
+}
